@@ -9,4 +9,4 @@ To check out the news API, click [here](https://newsapi.org/). After that, log i
 
 ## Demo
 
-https://user-images.githubusercontent.com/89479586/143396656-4c01ba40-1645-41e8-93e4-7214ec3db729.mp4
+
