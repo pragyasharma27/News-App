@@ -6,4 +6,4 @@ This is my second react project were i have created News App with News API to re
 
 To check out the news API, click [here](https://newsapi.org/). After that, log in to the news API by filling up some basic details like `Name, Email, Password,` and get your API key. After you are logged in, you will see your `live API key` in every example. I have used the `Top headlines Endpoint` for my application.
 
-
+DEMO- https://user-images.githubusercontent.com/89479586/153042646-b59591a6-4320-45bf-bb9e-cdb996e45712.mp4
